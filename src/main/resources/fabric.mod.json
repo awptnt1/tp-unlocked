@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "tp_unlocked",
+  "version": "1.0.0",
+  "name": "Teleport Unlocked",
+  "description": "Allows all players to use /tp freely.",
+  "entrypoints": {
+    "main": [
+      "com.mu.tpunlocked.TpUnlockedMod"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.15.11",
+    "minecraft": "1.21.1",
+    "fabric": "*"
+  }
+}
